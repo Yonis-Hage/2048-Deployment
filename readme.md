@@ -1,4 +1,4 @@
-# 2048 EKS Project
+# 2048 EKS Project!
 
 This project deploys the 2048 game application to an AWS EKS (Elastic Kubernetes Service) cluster using Terraform for infrastructure and GitHub Actions for automation. The deployment includes Argo CD for GitOps, NGINX ingress for traffic management, SSL via Cert Manager, and Prometheus and Grafana for monitoring.
 
